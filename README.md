@@ -26,6 +26,7 @@
 * map and filter
 * methods
 
+----------
 # DAY 2:
 ----------
 
